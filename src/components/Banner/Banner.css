@@ -2,8 +2,8 @@
     color:white;
     margin-top: 30px;
     height: 450px;
-    background-image: url('https://wallpaperaccess.com/full/2703652.png');
     background-size: cover;
+    
 }
 
 .component{
@@ -14,7 +14,7 @@
 }
 
 .title{
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight: 800;
     padding-bottom: 0.3rem;
 }
